@@ -1,1 +1,798 @@
+[box=Tournaments]
+[color=#FFF6A7]Total amount of tournaments signed up for: [b]62[/b] (Not counting weekly tournaments)[/color]
 
+[centre][color=#FF78CB][b]Rapid Monthly osu! Tournament #3[/b] - [/color][color=#FF78CB]Top 64[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]First tournament I ever played. Got way too nervous and lost my first match.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Rapid Monthly osu! Tournament #4[/b] - [/color][color=#FF78CB]Top 16[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Second tournament I ever played. Won three matches in a row, then lost my fourth one.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Dino's osu! World Series[/b] - [/color][color=#FF78CB]Position Unknown[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]I think I made it pretty far in this tournament, but I can't remember. Had to forfeit because I wasn't available one of the weekends.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Pick me up Tournament 2[/b] - [/color][color=#FF78CB]Top 16[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/au.gif[/img][profile] NucleaRaven[/profile][*][img]https://s.ppy.sh/images/flags/hk.gif[/img][profile] Accurian[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]My first team tournament. Accurian was on holiday during this tournament so NucleaRaven and I had to win all our matches :( Still a very fun tournament.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]HappyStick Spring Tour 2017 18k-25k[/b] - [/color][color=#c0c0c0]2nd Place[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]RIP Badge dream :( I feel like I could have won this with a better mindset, but I got outplayed in grand finals.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Chee-Z 1v1-Mini Tourney #6[/b] - [/color][color=#ffd700]1st Place[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]First tournament I ever won, and I got it without losing a single match! Won 6 months of supporter for this.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]NeLiCon 2k17[/b] - [/color][color=#FF78CB]Top 8[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Lost in Quarterfinals to the winner of the tournament on tiebreaker by 1000 points.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Euskal Encounter Tournament[/b] - [/color][color=#cd7f32]3rd Place[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Small tournament hosted by my friend, ended up getting 3rd place.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Vocaloid vs. Touhou[/b] - [/color][color=#FF78CB]Top 8[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Don't remember too much about this tournament, but I think it was pretty fun.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Happystick Summer Tournament 2017[/b] - [/color][color=#FF78CB]Position Unknown[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Played really bad and lost in the first round. I think I got 5th place with the top 4 players moving on in my lobby, but im not sure.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]A Random Tourney In August[/b] - [/color][color=#FF78CB]Top 32[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Lost against the person that got second place in the second round of the tourney.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]A Random Tourney In Autumn[/b] - [/color][color=#FF78CB]Position Unknown[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Don't remember how far I made it in this, but I know I won my first match.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Kawaii Squad Tournament #2[/b] - [/color][color=#FF78CB]Position Unknown[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/es.gif[/img][profile] WeebFiros[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Only thing I remember about this tournament is that we beat one of the best teams in the tourney in either this one or in the third iteration.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Kawaii Squad Tournament #3[/b] - [/color][color=#FF78CB]Position Unknown[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/es.gif[/img][profile] WeebFiros[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Only thing I remember about this tournament is that we beat one of the best teams in the tourney in either this one or in the second iteration.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]osu! Four Seasons #1 Nomod[/b] - [/color][color=#FF78CB]Top 16[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Lost the first round against Legless.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]osu! Four Seasons #1 Hidden[/b] - [/color][color=#FF78CB]Top 16[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Lost the first round against DigitalHypno.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Autumn Duel Tourney[/b] - [/color][color=#FF78CB]Top 8[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/es.gif[/img][profile] WeebFiros[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Don't remember anything about this tournament, but apparently I played in it.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]osu! Winter Challenge[/b] - [/color][color=#FF78CB]Top 32[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Made it out of groups, then lost instantly. Single elimination.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]osu! Nordic Tournament[/b] - [/color][color=#FF78CB]Top 24[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Lost against ItsKevZii in my second match in winners bracket, then was put instantly against CXu in losers bracket, which I also lost.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]osu! Map Clearing Tournament 2[/b] - [/color][color=#FF78CB]Position Unknown[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Tournament where the goal is to pass as many maps as possible. Got bored during the first round and didn't send in any scores.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]osu! Map Clearing Tournament 3[/b] - [/color][color=#FF78CB]Position Unknown[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Did the same thing as I did on the second iteration.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Will's Speciality Tournament 4[/b] - [/color][color=#FF78CB]Top 32[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/es.gif[/img][profile] WeebFiros[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] 5joshi[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Tournament that focused on EZ and FL. Won a couple matches I think, but Lost in RO16[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]SMT Winter 2018[/b] - [/color][color=#FF78CB]Group Stage[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] [Sven][/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] 5joshi[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Bastia[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Badewanne3[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Sevy[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Yentis[/profile][*][img]https://s.ppy.sh/images/flags/ru.gif[/img][profile] Attack[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]My pen broke right before this tournament, so I didn't get to play :([/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]SST 2018[/b] - [/color][color=#FF78CB]Group Stage[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Jodehh[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] 5joshi[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Bastia[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Very fun tournament, even though we lost in groups.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]osu! TV Size Tournament[/b] - [/color][color=#FF78CB]Group Stage[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] [Sven][/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] 5joshi[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Bastia[/profile][*][img]https://s.ppy.sh/images/flags/sa.gif[/img][profile] CheeseNToast[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Jodehh[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Mking[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Nogar[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Really disliked the pool in this tournament so I didn't have a lot of fun.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Relax Tourney[/b] - [/color][color=#FF78CB]Position Unknown[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Won 4 matches I think, but ended up forfeiting because the tourney was too poorly organized and I wasn't having fun.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]European Tournament[/b] - [/color][color=#FF78CB]Top 16[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Jodehh[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] 5joshi[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Really enjoyed playing this tournament, no idea how we got this far considering it wasn't rank restricted.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]4 Digit World Cup 2018[/b] - [/color][color=#FF78CB]Top 16[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] YokesPai[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] gilmat[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] FrozoneDisney[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] BarkingMadDog[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] Espaas[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] Duskyui[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] Pierse[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Really fun tournament, hope I get the chance to play this again.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Cake Cup[/b] - [/color][color=#FF78CB]N/A[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Didn't meet rank cutoff. Tried to farm a bit but couldn't do it fast enough. Looked like a really fun tournament so I wish I had been able to play :([/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Fblade Community Tournament[/b] - [/color][color=#FF78CB]Top 6[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Lost against Hanori in winners bracket and brain damage in losers bracket.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]osu! Ancient Tournament[/b] - [/color][color=#FF78CB]Top 6[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Lost against moosepi in winners bracket and Nega in losers bracket.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Bean'd osu! Tourney 1v1[/b] - [/color][color=#FF78CB]Top 64[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Was put against papika (highest seed in tournament) first round and lost on tiebreaker. Single elimination tournament...[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Totally Not Suitable For Tournament[/b] - [/color][color=#FF78CB]Top 64[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]The gimmicky pools got old really quick for me so I ended up forfeiting the tournament because I wasn't having fun.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Bean'd osu! Tourney 2v2[/b] - [/color][color=#FF78CB]Top 8[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] 5joshi[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Lost against moosepi and Akane Hime, and it was single elimination. Still very fun tournament and I feel like I played pretty well in it.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Iron Bag Tournament[/b] - [/color][color=#FF78CB]Top 64[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Lost to Bartek22830 in the second round (Single elimination)[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Hippo Cup 2[/b] - [/color][color=#FF78CB]Group Stage[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] Husa[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] Njulsen[/profile][*][img]https://s.ppy.sh/images/flags/dk.gif[/img][profile] Lucasion[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] BarkingMadDog[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] Espaas[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] Duskyui[/profile][*][img]https://s.ppy.sh/images/flags/br.gif[/img][profile] waveigl[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Lost in groups, but it was fun while it lasted. Got some strong teams in our group.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Anime Tiddles Tourney[/b] - [/color][color=#FF78CB]Group stage[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Lost 2 of my matches in group stage so i did not get through. Pool was way too easy for group stage imo so it was very hard to win for higher ranked players because of the powerups.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Spork Cup[/b] - [/color][color=#FF78CB]Did not qualify[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Jodehh[/profile][*][img]https://s.ppy.sh/images/flags/ru.gif[/img][profile] Attack[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Ended up not qualifying for this tournament, too many good teams.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Tricky Tech Tournament[/b] - [/color][color=#FF78CB]Did not qualify[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/ru.gif[/img][profile] Attack[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Barely did not qualify for this tournament (33/32) Played really good on some maps in qualifier, but also did really bad on some other maps.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Conyoh Cup[/b] - [/color][color=#ffd700]1st Place[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] YokesPai[/profile][*][img]https://s.ppy.sh/images/flags/gb.gif[/img][profile] Nega[/profile][*][img]https://s.ppy.sh/images/flags/ca.gif[/img][profile] Alden[/profile][*][img]https://s.ppy.sh/images/flags/ca.gif[/img][profile] ThePro365[/profile][*][img]https://s.ppy.sh/images/flags/ru.gif[/img][profile] KomachiBaka[/profile][*][img]https://s.ppy.sh/images/flags/se.gif[/img][profile] -Kupo-[/profile][*][img]https://s.ppy.sh/images/flags/de.gif[/img][profile] LwL[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Amazing comeback during grand finals. Most fun tournament i have played so far and also the first badge i won.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Stingray's Seasonal Showdown Winter 2019[/b] - [/color][color=#FF78CB]Top 22[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Lost against Jordan the Bear. We ended up not scheduling our match so we just rolled for winner.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]European Tournament 2[/b] - [/color][color=#FF78CB]4th place[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] 5joshi[/profile][*][img]https://s.ppy.sh/images/flags/nl.gif[/img][profile] Lazer[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]None of us were taking this tournament very seriously and we were sightreading all our matches. I think we could have gotten further if we tried harder.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Enigmatic Snow Festival[/b] - [/color][color=#FF78CB]Round 1[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/us.gif[/img][profile] Timpton[/profile][*][img]https://s.ppy.sh/images/flags/us.gif[/img][profile] Kyupin[/profile][*][img]https://s.ppy.sh/images/flags/nl.gif[/img][profile] Turbotondel[/profile][*][img]https://s.ppy.sh/images/flags/gb.gif[/img][profile] budywudy9[/profile][*][img]https://s.ppy.sh/images/flags/cz.gif[/img][profile] KG Ragny[/profile][*][img]https://s.ppy.sh/images/flags/us.gif[/img][profile] Vivian Desu[/profile][*][img]https://s.ppy.sh/images/flags/us.gif[/img][profile] Junichibro314[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Wasn't really able to play this tournament because i had too many other tourneys going on at the same time.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Touhou Tournament[/b] - [/color][color=#FF78CB]Top 48[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Forfeit because i didn't have time to play, and i didn't really care about this tournament.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Black Rover Tournament[/b] - [/color][color=#FF78CB]Top 32[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Masde it through qualifiers, but I didn't realise this was a 1 day tournament so I had to forfeit.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Tinder Tournament[/b] - [/color][color=#FF78CB]Top 6[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/nl.gif[/img][profile] Sanzai[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Very badly organized tournament[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]OCC Spinoff: 🌻 vs 🌸[/b] - [/color][color=#FF78CB]Top 4[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/se.gif[/img][profile] Saika0k1[/profile][*][img]https://s.ppy.sh/images/flags/us.gif[/img][profile] Tj7223[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Hanori[/profile][*][img]https://s.ppy.sh/images/flags/nl.gif[/img][profile] Bob Shmurda[/profile][*][img]https://s.ppy.sh/images/flags/ru.gif[/img][profile] z0mbir[/profile][*][img]https://s.ppy.sh/images/flags/sg.gif[/img][profile] moosepi[/profile][*][img]https://s.ppy.sh/images/flags/ru.gif[/img][profile] -Din-[/profile][*][img]https://s.ppy.sh/images/flags/pl.gif[/img][profile] cezgru[/profile][*][img]https://s.ppy.sh/images/flags/pl.gif[/img][profile] Blade69[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Had to play finals at LAN so I couldn't really play that many maps :([/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Old map fantasy tournament[/b] - [/color][color=#cd7f32]3rd Place[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/pl.gif[/img][profile] GunOfGaming[/profile][*][img]https://s.ppy.sh/images/flags/pl.gif[/img][profile] cezgru[/profile][*][img]https://s.ppy.sh/images/flags/us.gif[/img][profile] Conyoh[/profile][*][img]https://s.ppy.sh/images/flags/kr.gif[/img][profile] Civil oath[/profile][*][img]https://s.ppy.sh/images/flags/mx.gif[/img][profile] xHei_57[/profile][*][img]https://s.ppy.sh/images/flags/us.gif[/img][profile] Shark[/profile][*][img]https://s.ppy.sh/images/flags/my.gif[/img][profile] blufir_[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Had a fun time in this tournament, even though I didn't get to play much since Conyoh was in my tier. A bit sad that we didn't get the win since I think we could have gotten it.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Ted Tournament[/b] - [/color][color=#c0c0c0]2nd Place[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/it.gif[/img][profile] umii[/profile][*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] 5joshi[/profile][*][img]https://s.ppy.sh/images/flags/us.gif[/img][profile] AmericanPenguin[/profile][*][img]https://s.ppy.sh/images/flags/se.gif[/img][profile] fcuk[/profile][*][img]https://s.ppy.sh/images/flags/it.gif[/img][profile] Surpy[/profile][*][img]https://s.ppy.sh/images/flags/kr.gif[/img][profile] ddm[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Managed to beat a super stacked team to get to grand finals, unfortunately lost to them in grand finals though. First tournament with awawawawa as well.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Dynamic Seasonal Tournament S tier[/b] - [/color][color=#cd7f32]3rd Place[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Lost to Start in winners finals, and umii in losers grand finals[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Suiji Spring Cup[/b] - [/color][color=#cd7f32]3rd Place[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/us.gif[/img][profile] fieryrage[/profile][*][img]https://s.ppy.sh/images/flags/us.gif[/img][profile] im a fancy lad[/profile][*][img]https://s.ppy.sh/images/flags/pl.gif[/img][profile] twoj stary[/profile][*][img]https://s.ppy.sh/images/flags/us.gif[/img][profile] Pupper[/profile][*][img]https://s.ppy.sh/images/flags/au.gif[/img][profile] Vivace[/profile][*][img]https://s.ppy.sh/images/flags/ar.gif[/img][profile] Zaqlev[/profile][*][img]https://s.ppy.sh/images/flags/ar.gif[/img][profile] Rimi[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Mostly fun tournament, but the pools towards the end were way too hard for me.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Please enjoy tournament 2019[/b] - [/color][color=#FF78CB]Top 24[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/sg.gif[/img][profile] phox[/profile][*][img]https://s.ppy.sh/images/flags/br.gif[/img][profile] Despairy[/profile][*][img]https://s.ppy.sh/images/flags/fi.gif[/img][profile] Minami-Kotori[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Got really unlucky with our first matchup[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]OSU! Wub Wub Tournament[/b] - [/color][color=#FF78CB]Top 8[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/sg.gif[/img][profile] woahsia[/profile][*][img]https://s.ppy.sh/images/flags/pl.gif[/img][profile] Triojo[/profile][*][img]https://s.ppy.sh/images/flags/pl.gif[/img][profile] DarthSmith[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Very badly organized tournament[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Yaz's Summer Cup 2019[/b] - [/color][color=#FF78CB]Did not qualify[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Wasn't expecting to qualify for this tournament anyways. I did really good on some maps that I wasn't expecting to do good on, but unfortunately inted the easiest map in the pool[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Gotta Aim Fast 2019[/b] - [/color][color=#FF78CB]Top 12[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/se.gif[/img][profile] [ Coach ][/profile][*][img]https://s.ppy.sh/images/flags/se.gif[/img][profile] [ Blue ][/profile][*][img]https://s.ppy.sh/images/flags/fi.gif[/img][profile] Dragonmob[/profile][*][img]https://s.ppy.sh/images/flags/se.gif[/img][profile] Jageko[/profile][*][img]https://s.ppy.sh/images/flags/ar.gif[/img][profile] Pein[/profile][*][img]https://s.ppy.sh/images/flags/se.gif[/img][profile] Saika0k1[/profile][*][img]https://s.ppy.sh/images/flags/ca.gif[/img][profile] Saryi[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]One of the most fun tournaments I have ever played. Won our group by winning every group stage match on tiebreaker, but unfortunately lost pretty quickly during playoffs.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Osu! Kalesy Kup[/b] - [/color][color=#ffd700]1st Place[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/it.gif[/img][profile] umii[/profile][*][img]https://s.ppy.sh/images/flags/it.gif[/img][profile] Daren[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] YokesPai[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Barely played anything in this tourney, but still nice win I guess[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]4 Digit World Cup 2019[/b] - [/color][color=#FF78CB]Top 16[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] YokesPai[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] Dozom[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] Melvr[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] EiW[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] iT3chnoHD[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] Rezk[/profile][*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] Matboksen[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Played pretty decent overall, but I also made us lose some really stupid maps.[/color]
+
+
+
+
+
+[centre][color=#FF78CB][b]Luminous Summer Tournament 2019[/b] - [/color][color=#cd7f32]3rd Place[/color][/centre][color=#FF78CB][b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][*][img]https://s.ppy.sh/images/flags/ru.gif[/img][profile] Cappu[/profile][*][img]https://s.ppy.sh/images/flags/pl.gif[/img][profile] cezgru[/profile][*][img]https://s.ppy.sh/images/flags/br.gif[/img][profile] Despairy[/profile][*][img]https://s.ppy.sh/images/flags/pl.gif[/img][profile] GunOfGaming[/profile][*][img]https://s.ppy.sh/images/flags/nl.gif[/img][profile] taku[/profile][*][img]https://s.ppy.sh/images/flags/ru.gif[/img][profile] Rasim[/profile][*][img]https://s.ppy.sh/images/flags/it.gif[/img][profile] umii[/profile][/list]
+[color=#FF78CB][b]Notes:[/b][/color]
+[color=#FFF6A7]Very fun tournament, even if i was completely useless towards the end. Had a lot of trouble with availability so we had to play without full roster the entire tourney.[/color]
+
+
+
+
+
+[color=#FF78CB][b]Ongoing Tournaments[/b][/color]
+
+
+
+
+
+[color=#FF78CB][b]nik's Autumn Tour 2019 Tier 2[/b]
+[b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+
+
+
+
+
+[color=#FF78CB][b]Will's Specialty Tournament 5[/b]
+[b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile]
+[*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] 5joshi[/profile]
+[*][img]https://s.ppy.sh/images/flags/es.gif[/img][profile] WeebFiros[/profile]
+[*][img]https://s.ppy.sh/images/flags/be.gif[/img][profile] Fblade[/profile][/list]
+
+
+
+
+
+[color=#FF78CB][b]Halloween Spooks Showdown[/b]
+[b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile]
+[*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] gilmat[/profile]
+[*][img]https://s.ppy.sh/images/flags/no.gif[/img][profile] Fjell[/profile][/list]
+
+
+
+
+
+[color=#FF78CB][b]Baka Squadron Cup #2[/b]
+[b]Players:[/b][/color]
+[list][*][img]https://s.ppy.sh/images/flags/no.gif[/img] [profile] Markus[/profile][/list]
+[/box]
+[box=Teammates]
+[centre]
+[color=#FFF6A7]People I have played with in tournaments, and how many times.[/color]
+
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/4279650][img]https://cdn.discordapp.com/attachments/543940068302389248/625098095277113368/4279650_1567976169.jpg[/img][/url][heading]5joshi - 9 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]Will's Speciality Tournament 4
+SMT Winter 2018
+SST 2018
+osu! TV Size Tournament
+European Tournament
+Bean'd osu! Tourney 2v2
+European Tournament 2
+Ted Tournament
+Will's Specialty Tournament 5
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/3896302][img]https://cdn.discordapp.com/attachments/543940068302389248/625098085835472903/3896302_1557774809.jpg[/img][/url][heading]WeebFiros - 5 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]Kawaii Squad Tournament #2
+Kawaii Squad Tournament #3
+Autumn Duel Tourney
+Will's Speciality Tournament 4
+Will's Specialty Tournament 5
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/6471366][img]https://cdn.discordapp.com/attachments/543940068302389248/625098105507020829/6471366_1565445658.jpg[/img][/url][heading]Jodehh - 4 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]SST 2018
+osu! TV Size Tournament
+European Tournament
+Spork Cup
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/6399568][img]https://cdn.discordapp.com/attachments/543940068302389248/625098103975837707/6399568_1568301658.jpg[/img][/url][heading]YokesPai - 4 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]4 Digit World Cup 2018
+Conyoh Cup
+Osu! Kalesy Kup
+4 Digit World Cup 2019
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/943521][img]https://cdn.discordapp.com/attachments/543940068302389248/625098110028480518/943521_1562446194.jpg[/img][/url][heading]Attack - 3 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]SMT Winter 2018
+Spork Cup
+Tricky Tech Tournament
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/3355362][img]https://cdn.discordapp.com/attachments/543940068302389248/625098140407824424/3355362_1565030106.jpg[/img][/url][heading]Bastia - 3 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]SMT Winter 2018
+SST 2018
+osu! TV Size Tournament
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/2629617][img]https://cdn.discordapp.com/attachments/543940068302389248/625100507098120202/2629617_1566595550.jpg[/img][/url][heading]cezgru - 3 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]OCC Spinoff: 🌻 vs 🌸
+Old map fantasy tournament
+Luminous Summer Tournament 2019
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/2538695][img]https://cdn.discordapp.com/attachments/543940068302389248/625100537112821771/2538695_1567246882.jpg[/img][/url][heading]umii - 3 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]Ted Tournament
+Osu! Kalesy Kup
+Luminous Summer Tournament 2019
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/3475189][img]https://cdn.discordapp.com/attachments/543940068302389248/625098143146442774/3475189_1454433170.jpg[/img][/url][heading]BarkingMadDog - 2 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]4 Digit World Cup 2018
+Hippo Cup 2
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/7339984][img]https://cdn.discordapp.com/attachments/543940068302389248/625098106945536030/7339984_1568166980.jpg[/img][/url][heading]Despairy - 2 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]Please enjoy tournament 2019
+Luminous Summer Tournament 2019
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/4422457][img]https://cdn.discordapp.com/attachments/543940068302389248/625098099341393940/4422457_1565163625.jpg[/img][/url][heading]Duskyui - 2 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]4 Digit World Cup 2018
+Hippo Cup 2
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/3277704][img]https://cdn.discordapp.com/attachments/543940068302389248/625100231817822219/3277704_1567961736.jpg[/img][/url][heading]Espaas - 2 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]4 Digit World Cup 2018
+Hippo Cup 2
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/5522259][img]https://cdn.discordapp.com/attachments/543940068302389248/625098100641628192/5522259_1565538409.jpg[/img][/url][heading]GunOfGaming - 2 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]Old map fantasy tournament
+Luminous Summer Tournament 2019
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/4316633][img]https://cdn.discordapp.com/attachments/543940068302389248/625098097944428585/4316633_1561908792.jpg[/img][/url][heading]Saika0k1 - 2 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]OCC Spinoff: 🌻 vs 🌸
+Gotta Aim Fast 2019
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/3695504][img]https://cdn.discordapp.com/attachments/543940068302389248/625098145759625236/3695504_1562262463.jpg[/img][/url][heading][Sven] - 2 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]SMT Winter 2018
+osu! TV Size Tournament
+
+[color=#FF78CB]________________________________________________________________[/color]
+
+[url=https://osu.ppy.sh/users/5779181][img]https://cdn.discordapp.com/attachments/543940068302389248/625098102520414209/5779181_1567959500.jpg[/img][/url][heading]gilmat - 2 times[/heading][color=#FF78CB][b]Tournaments we played:[/b][/color]
+[color=#FFF6A7]4 Digit World Cup 2018
+Halloween Spooks Showdown
+[/color][color=#FF78CB]________________________________________________________________[/color]
+
+[u][b]People I have only played with once:[/b][/u]
+[profile]-Din-[/profile][color=#FFF6A7] - OCC Spinoff: 🌻 vs 🌸[/color]
+[profile]-Kupo-[/profile][color=#FFF6A7] - Conyoh Cup[/color]
+[profile]Accurian[/profile][color=#FFF6A7] - Pick me up Tournament 2[/color]
+[profile]Alden[/profile][color=#FFF6A7] - Conyoh Cup[/color]
+[profile]AmericanPenguin[/profile][color=#FFF6A7] - Ted Tournament[/color]
+[profile]Badewanne3[/profile][color=#FFF6A7] - SMT Winter 2018[/color]
+[profile]Blade69[/profile][color=#FFF6A7] - OCC Spinoff: 🌻 vs 🌸[/color]
+[profile]Bob Shmurda[/profile][color=#FFF6A7] - OCC Spinoff: 🌻 vs 🌸[/color]
+[profile]Cappu[/profile][color=#FFF6A7] - Luminous Summer Tournament 2019[/color]
+[profile]CheeseNToast[/profile][color=#FFF6A7] - osu! TV Size Tournament[/color]
+[profile]Civil oath[/profile][color=#FFF6A7] - Old map fantasy tournament[/color]
+[profile]Conyoh[/profile][color=#FFF6A7] - Old map fantasy tournament[/color]
+[profile]Daren[/profile][color=#FFF6A7] - Osu! Kalesy Kup[/color]
+[profile]DarthSmith[/profile][color=#FFF6A7] - OSU! Wub Wub Tournament[/color]
+[profile]Dozom[/profile][color=#FFF6A7] - 4 Digit World Cup 2019[/color]
+[profile]Dragonmob[/profile][color=#FFF6A7] - Gotta Aim Fast 2019[/color]
+[profile]EiW[/profile][color=#FFF6A7] - 4 Digit World Cup 2019[/color]
+[profile]Fblade[/profile][color=#FFF6A7] - Will's Specialty Tournament 5[/color]
+[profile]Fjell[/profile][color=#FFF6A7] - Halloween Spooks Showdown[/color]
+[profile]FrozoneDisney[/profile][color=#FFF6A7] - 4 Digit World Cup 2018[/color]
+[profile]Hanori[/profile][color=#FFF6A7] - OCC Spinoff: 🌻 vs 🌸[/color]
+[profile]Husa[/profile][color=#FFF6A7] - Hippo Cup 2[/color]
+[profile]Jageko[/profile][color=#FFF6A7] - Gotta Aim Fast 2019[/color]
+[profile]Junichibro314[/profile][color=#FFF6A7] - Enigmatic Snow Festival[/color]
+[profile]KG Ragny[/profile][color=#FFF6A7] - Enigmatic Snow Festival[/color]
+[profile]KomachiBaka[/profile][color=#FFF6A7] - Conyoh Cup[/color]
+[profile]Kyupin[/profile][color=#FFF6A7] - Enigmatic Snow Festival[/color]
+[profile]Lazer[/profile][color=#FFF6A7] - European Tournament 2[/color]
+[profile]Lucasion[/profile][color=#FFF6A7] - Hippo Cup 2[/color]
+[profile]LwL[/profile][color=#FFF6A7] - Conyoh Cup[/color]
+[profile]Matboksen[/profile][color=#FFF6A7] - 4 Digit World Cup 2019[/color]
+[profile]Melvr[/profile][color=#FFF6A7] - 4 Digit World Cup 2019[/color]
+[profile]Minami-Kotori[/profile][color=#FFF6A7] - Please enjoy tournament 2019[/color]
+[profile]Mking[/profile][color=#FFF6A7] - osu! TV Size Tournament[/color]
+[profile]Nega[/profile][color=#FFF6A7] - Conyoh Cup[/color]
+[profile]Njulsen[/profile][color=#FFF6A7] - Hippo Cup 2[/color]
+[profile]Nogar[/profile][color=#FFF6A7] - osu! TV Size Tournament[/color]
+[profile]NucleaRaven[/profile][color=#FFF6A7] - Pick me up Tournament 2[/color]
+[profile]Pein[/profile][color=#FFF6A7] - Gotta Aim Fast 2019[/color]
+[profile]Pierse[/profile][color=#FFF6A7] - 4 Digit World Cup 2018[/color]
+[profile]Pupper[/profile][color=#FFF6A7] - Suiji Spring Cup[/color]
+[profile]Rasim[/profile][color=#FFF6A7] - Luminous Summer Tournament 2019[/color]
+[profile]Rezk[/profile][color=#FFF6A7] - 4 Digit World Cup 2019[/color]
+[profile]Rimi[/profile][color=#FFF6A7] - Suiji Spring Cup[/color]
+[profile]Sanzai[/profile][color=#FFF6A7] - Tinder Tournament[/color]
+[profile]Saryi[/profile][color=#FFF6A7] - Gotta Aim Fast 2019[/color]
+[profile]Sevy[/profile][color=#FFF6A7] - SMT Winter 2018[/color]
+[profile]Shark[/profile][color=#FFF6A7] - Old map fantasy tournament[/color]
+[profile]Surpy[/profile][color=#FFF6A7] - Ted Tournament[/color]
+[profile]ThePro365[/profile][color=#FFF6A7] - Conyoh Cup[/color]
+[profile]Timpton[/profile][color=#FFF6A7] - Enigmatic Snow Festival[/color]
+[profile]Tj7223[/profile][color=#FFF6A7] - OCC Spinoff: 🌻 vs 🌸[/color]
+[profile]Triojo[/profile][color=#FFF6A7] - OSU! Wub Wub Tournament[/color]
+[profile]Turbotondel[/profile][color=#FFF6A7] - Enigmatic Snow Festival[/color]
+[profile]Vivace[/profile][color=#FFF6A7] - Suiji Spring Cup[/color]
+[profile]Vivian Desu[/profile][color=#FFF6A7] - Enigmatic Snow Festival[/color]
+[profile]Yentis[/profile][color=#FFF6A7] - SMT Winter 2018[/color]
+[profile]Zaqlev[/profile][color=#FFF6A7] - Suiji Spring Cup[/color]
+[profile][ Blue ][/profile][color=#FFF6A7] - Gotta Aim Fast 2019[/color]
+[profile][ Coach ][/profile][color=#FFF6A7] - Gotta Aim Fast 2019[/color]
+[profile]blufir_[/profile][color=#FFF6A7] - Old map fantasy tournament[/color]
+[profile]budywudy9[/profile][color=#FFF6A7] - Enigmatic Snow Festival[/color]
+[profile]ddm[/profile][color=#FFF6A7] - Ted Tournament[/color]
+[profile]fcuk[/profile][color=#FFF6A7] - Ted Tournament[/color]
+[profile]fieryrage[/profile][color=#FFF6A7] - Suiji Spring Cup[/color]
+[profile]iT3chnoHD[/profile][color=#FFF6A7] - 4 Digit World Cup 2019[/color]
+[profile]im a fancy lad[/profile][color=#FFF6A7] - Suiji Spring Cup[/color]
+[profile]moosepi[/profile][color=#FFF6A7] - OCC Spinoff: 🌻 vs 🌸[/color]
+[profile]phox[/profile][color=#FFF6A7] - Please enjoy tournament 2019[/color]
+[profile]taku[/profile][color=#FFF6A7] - Luminous Summer Tournament 2019[/color]
+[profile]twoj stary[/profile][color=#FFF6A7] - Suiji Spring Cup[/color]
+[profile]waveigl[/profile][color=#FFF6A7] - Hippo Cup 2[/color]
+[profile]woahsia[/profile][color=#FFF6A7] - OSU! Wub Wub Tournament[/color]
+[profile]xHei_57[/profile][color=#FFF6A7] - Old map fantasy tournament[/color]
+[profile]z0mbir[/profile][color=#FFF6A7] - OCC Spinoff: 🌻 vs 🌸[/color]
+
+[/centre]
+[/box]
+[box=Tournament Statistics]
+[color=#FFF6A7]Statistics only works for tournaments where the results are clear e.g. 1st, 2nd, 3rd, 4th Place or Top X[/color]
+
+
+[color=#FF78CB][b]Amount of top 3 finishes:[/b][/color]
+[color=#FFF6A7]1st place finishes - 3
+2nd place finishes - 2
+3rd place finishes - 5[/color]
+
+
+
+[color=#FF78CB][b]Average finishes in 1v1 tournaments:[/b][/color]
+[color=#FFF6A7]Past 5 tournaments - Top 33.8
+Past 10 tournaments - Top 33.3
+Total - Top 23.35[/color]
+
+[color=#FF78CB][b]Average finishes in team tournaments:[/b][/color]
+[color=#FFF6A7]Past 5 tournaments - Top 8.0
+Past 10 tournaments - Top 7.6
+Total - Top 9.94[/color]
+
+[color=#FF78CB][b]Average finishes in all tournaments:[/b][/color]
+[color=#FFF6A7]Past 5 tournaments - Top 8.0
+Past 10 tournaments - Top 7.5
+Total - Top 17.0[/color]
+
+
+
+[color=#FF78CB][b]Top 5 teammates based on average finishes: (Only people I have teamed with twice or more)[/b][/color][color=#FFF6A7]
+[b]1. umii[/b] - Top 2.0 average
+[b]2. GunOfGaming[/b] - Top 3.0 average
+[b]3. cezgru[/b] - Top 3.33 average
+[b]4. Saika0k1[/b] - Top 8.0 average
+[b]5. YokesPai[/b] - Top 8.5 average[/color]
+[/box]
